@@ -30,7 +30,7 @@ We understand that the code may not meet the standards of optimization, but it w
 I want to be transparent and let you know that this is my first time creating a GitHub repository. I am still learning the process of accepting contributions, but I am open to suggestions and improvements to the project. If you have any ideas for optimization, please feel free to submit a contribution and I will review it with enthusiasm. 
 ## Used By
 
-As mentioned above, this registration system was used in an academic day event, specifically the 170th school anniversary celebration which is hosted every 10 years by Bangkok Christian College. Our system consisted of 36 mini events that ranged in size from 10 attendants to 300 attendants.
+Our registration system was used in an academic day event, specifically the 170th school anniversary celebration which is hosted every 10 years by Bangkok Christian College. The event consisted of 36 mini events that ranged in size from 10 attendants to 300 attendants. Our system proved to be an effective tool in managing the registration process for these events, with more than 1,500 users during the event. It was used to register attendees, pre-register attendees and check in attendees by scanning QR codes during the event.
 
 ## Installation
 
