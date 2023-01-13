@@ -30,7 +30,7 @@ We understand that the code may not meet the standards of optimization, but it w
 I want to be transparent and let you know that this is my first time creating a GitHub repository. I am still learning the process of accepting contributions, but I am open to suggestions and improvements to the project. If you have any ideas for optimization, please feel free to submit a contribution and I will review it with enthusiasm. 
 ## Used By
 
-Our registration system was used specifically for 36 mini events within the BCC Scholar Market, which is an academic day event hosted by Bangkok Christian College to celebrate the school's 170th anniversary. These events ranged in size from 10 attendants to 300 attendants. The registration system was used to manage the registration process for these specific events, with more than 1,500 users during the event. It was used to register attendees, pre-register attendees and check in attendees by scanning QR codes during the event. While there were other events taking place during the BCC Scholar Market, this system was only used for the 36 mini events mentioned.
+Our registration system was used specifically for 36 mini events within the BCC Scholar Market. These events ranged in size from 10 attendants to 300 attendants. It was used to register attendees, pre-register attendees and check in attendees by scanning QR codes during the event.
 
 ## Installation
 
