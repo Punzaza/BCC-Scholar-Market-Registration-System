@@ -1,0 +1,193 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/openHouse/sci.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "position": "absolute",
+            "background": {
+              "type": "linearGradient",
+              "angle": "0deg",
+              "endColor": "#00000000",
+              "startColor": "#00000099"
+            },
+            "width": "100%",
+            "height": "40%",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ขุมทรัพย์นักวิทย์ของเลือดม่วงทอง",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "weight": "bold",
+                        "adjustMode": "shrink-to-fit"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "08:30 - 12:25 น.",
+                            "color": "#ffffff",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "ขุมทรัพย์นักวิทย์ของเลือดม่วงทอง"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/openHouse/art.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "position": "absolute",
+            "background": {
+              "type": "linearGradient",
+              "angle": "0deg",
+              "endColor": "#00000000",
+              "startColor": "#00000099"
+            },
+            "width": "100%",
+            "height": "40%",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "ท่องโลกการเรียนรู้แห่งศิลปศาสตร์",
+                        "size": "xl",
+                        "color": "#ffffff",
+                        "adjustMode": "shrink-to-fit",
+                        "weight": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "11:45 - 15:20 น.",
+                            "color": "#ffffff",
+                            "size": "md",
+                            "flex": 0,
+                            "align": "end"
+                          }
+                        ],
+                        "flex": 0,
+                        "spacing": "lg"
+                      }
+                    ]
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "ท่องโลกการเรียนรู้แห่งศิลปศาสตร์"
+        }
+      }
+    }
+  ]
+}

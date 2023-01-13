@@ -1,0 +1,259 @@
+@font-face {
+  font-family: bigblackcock;
+  src: url(FCIconic-Black.ttf);
+}
+
+@font-face {
+  font-family: bigblack ;
+  src: url(FCIconic-Medium.ttf);
+}
+
+@font-face {
+  font-family: big ;
+  src: url(FCIconic-ExtraLight.ttf);
+}
+
+
+/* Main */
+
+body{
+  zoom: 32.5% ;
+  border: 10px solid #FAF884;
+  width: 1242px ;
+  height: 100% ;
+  font-size: 65px;
+  background-size: 100% 100%;
+  background-image: none;
+  /* background-image: linear-gradient(to top, #9276FA, #B884F4 , #B993F4, #E5B5ED); */
+  background-color: #9276FA;
+  animation-name: bgcolor ;
+  animation-duration: 5s ;
+  animation-delay: -2s ;
+  animation-iteration-count: infinite;  
+}
+
+hr{
+  background-color: pink ;
+  width: 97%;
+  height: 10px;
+}
+
+.logo{
+  width: 40%;
+  margin-left: 28%;
+}
+
+/*  */
+
+/* text */
+
+.Mainbody1{
+  margin-left: 5%;
+  /* border: 10px solid #FAF884; */
+}
+
+.top{
+  margin-left: 5% ; 
+  font-size: 100px;
+  text-align: center ;
+  font-family: bigblackcock;
+  animation-name: maincolor;
+  animation-duration: 6s;
+  animation-delay: -1s;
+  animation-iteration-count: infinite;
+  /* background-image: linear-gradient(to right,  ); */
+  /* -webkit-text-fill-color: transparent ; */
+  /* -webkit-background-clip: text ; */
+}
+
+.yakmakmak{
+  margin-top: 70%;
+  text-align: center ;
+  font-style: 200px;
+  font-family: bigblackcock;
+}
+
+label{
+  animation-name: fontcolor;
+  animation-duration: 6s ;
+  animation-delay: -1s ;
+  animation-iteration-count: infinite;
+}
+
+.fname{
+  font-family: bigblack;
+}
+
+.lname{
+  font-family: bigblack;
+}
+
+.phone{
+  font-family: bigblack;
+}
+
+.email{
+  font-family: bigblack;
+}
+
+.school{
+  font-family: bigblack;
+}
+
+.status{
+  font-family: bigblack;
+}
+
+/* input */
+
+input{
+  width: 80% ;
+  height: 60px ;
+  margin-top: 4%;
+  margin-left: 5%;
+  font-size: 60px;
+  font-family: big;
+  background-color: #E5E4E2;
+  /* border-radius: 15px 50px ; */
+  /* border-radius: 15px 15px 50px ; */
+  border-radius: 20px ;
+  padding-left: 3%;
+}
+
+input:focus{
+  animation-name: inputcolor;
+  animation-duration: 5s ;
+  animation-delay: -2s ;
+  animation-iteration-count: infinite;
+}
+
+.userid{
+  height: 75px;
+}
+
+
+.btn{
+  width: 450px;
+  height: 90px;
+  font-size: 70px;
+  border-radius: 20px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  background-color: #FAF884;
+}
+
+/*  */
+
+/* respon */
+ 
+@media only screen and (min-width: 600px){
+  .body{
+    width: 100% ;
+    height: 100%w;
+  }
+}
+
+@keyframes maincolor {
+  0%{color: #4B0150;}
+  25%{color: #4E387E;}
+  50%{color: #6A0DAD;}
+  75%{color: #483D8B;}
+  100%{color: #36013F;}
+ }
+
+@keyframes bgcolor {
+ 0%{background-color: #7f38ec;}
+ 25%{background-color: #8e3bff;}
+ 50%{background-color: #9370db;}
+ 75%{background-color: #8e3bff;}
+ 100%{background-color: #7f38ec;}
+}
+
+@keyframes fontcolor {
+  0%{color: #FAF884 ;}
+ 25%{color: #FFFF33 ;}
+ 50%{color: #FFEF00 ;}
+ 75%{color: #FFFF00 ;}
+ 100%{color: #FAF884 ;}
+}
+
+@keyframes inputcolor {
+  0%{background-color: #fffd97 ;}
+ 25%{background-color: #fdfda5 ;}
+ 50%{background-color: #fdf9c0 ;}
+ 75%{background-color: #fcfcb2 ;}
+ 100%{background-color: #fffd98 ;}
+}
+
+/*  */
+
+.selection{
+  height: 100px !important;
+}
+
+.select2-selection__rendered{
+  line-height: 100px !important ;
+}
+
+.select2-container{
+  box-sizing:border-box;
+  display:inline-block;
+  margin-left: 5%;
+  position:relative;
+  vertical-align:middle ;
+  height: 100px !important;
+}
+  .select2-container .select2-selection--single{
+    box-sizing:border-box;
+    cursor:pointer;
+    display:block;
+    height:100px !important;
+    user-select:none;
+    -webkit-user-select:none;
+    margin-top: 2%;
+    margin-left: 8%;
+  }
+  .select2-container .select2-selection--single .select2-selection__rendered{
+    display:block;
+    padding-left:8px;
+    padding-right:20px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+  }
+  .select2-dropdown {
+    position: relative !important;
+    margin-left: 4%;
+  }
+
+  .select2-search__field{
+    margin-left: 8% !important;
+    width: 850px !important;
+    margin-top: 0% ;
+    margin-left: 0%;
+  }
+
+/*  */
+
+/*  */
+
+.seljob {
+  width: 980px;
+  height: 100px;
+  margin-top: 3%;
+  margin-left: 6%;
+  font-size: 50px;
+}
+
+.selrow {
+  width: 980px;
+  height: 100px;
+  margin-top: 3%;
+  margin-left: 6%;
+  font-size: 50px;
+  margin-bottom: 3% ;
+}
+
+
+
+/*  */

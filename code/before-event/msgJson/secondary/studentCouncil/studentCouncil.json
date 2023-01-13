@@ -1,0 +1,170 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "weight": "bold",
+        "color": "#1DB446",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "wrap": true,
+        "text": "เสวนาสภากาแฟร์"
+      },
+      {
+        "type": "text",
+        "text": "Trinity Hall ชั้น 11 อาคารจอห์น เอ. เอกิ้น",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "12 มกราคม 2566",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "Student Council",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดกิจกรรม",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "“Design Our School Toward Inclusive Futures” ปลุกความคิดและเปิดมุมมองการพัฒนางานสภานักเรียนไปด้วยกัน",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บุคคลที่สนใจ จำนวน 50 คน",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:00 - 9:30 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูณัธพล ถิรวิจิตรกุล",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "086-547-5881",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัครเสวนาสภากาแฟร์"
+        }
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

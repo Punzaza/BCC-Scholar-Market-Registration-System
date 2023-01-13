@@ -1,0 +1,410 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "weight": "bold",
+        "color": "#1DB446",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "การประกวดวาดภาพระบายสีหัวข้อ “ก้าวสู่ 2030 สู่การพัฒนาที่ยั่งยืน (SDGs)”",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "โถงหน้าห้องประชาสัมพันธ์ อาคารสิรินาถ",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "วันที่ 12 มกราคม 2566",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "Scholar Competitions",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กำหนดการรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ธันวาคม 2565 - 4 มกราคม 2566",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "text": "- ระดับชั้นมัธยมศึกษาตอนต้นโรงเรียนละไม่เกิน 2 คน"
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": " - ระดับชั้นมัธยมศึกษาตอนปลายโรงเรียนละไม่เกิน 2 คน",
+            "color": "#555555",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "หลักเกณฑ์การแข่งขัน",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "- คณะผู้จัดงานจะเตรียมกระดาษวาดเขียน 100 ปอนด์ขนาด A3",
+            "color": "#555555",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "- ผู้เข้าประกวดระดับมัธยมศึกษาตอนต้น ใช้เทคนิคการวาดด้วยสีไม้เท่านั้น เตรียมอุปกรณ์มาเอง",
+            "wrap": true,
+            "size": "sm",
+            "align": "start",
+            "color": "#555555"
+          },
+          {
+            "type": "text",
+            "text": "- ใช้เวลาในการประกวดวาดภาพ 3 ชั่วโมง",
+            "color": "#555555",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "เกณฑ์การได้คะเเนน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "text": "ความสอดคล้องกับหัวข้อ",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "10 คะแนน",
+                "color": "#111111",
+                "size": "sm",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "text": "ความคิดสร้างสรรค์",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "10 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "color": "#555555",
+                "text": "ความสวยงามของภาพ",
+                "wrap": true,
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": " 10  คะแนน",
+                "color": "#111111",
+                "size": "sm",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลที่จะได้รับ",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "text": "- ระดับชั้นมัธยมศึกษาตอนต้นรางวัลที่่ 1,2,3 และชมเชย 2 รางวัล (ของรางวัลพร้อมเกียรติบัตร)"
+              }
+            ],
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "- ระดับชั้นมัธยมศึกษาตอนปลายรางวัลที่ 1,2,3 และชมเชย 2 รางวัล (ของรางวัลพร้อมเกียรติบัตร)",
+            "color": "#555555",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:00 - 08:30 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ลงทะเบียนเข้าร่วมงาน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:50 - 11:50 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "แข่งขัน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "13:30 - 13:45 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ประกาศผล",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "13:45 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "มอบรางวัล",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูอุทาร เผ่าบุญเกิด ",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "081-450-4506",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูจิรพันธ์ สิงห์คา",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": " 089-206-2529",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร ม.ต้น",
+          "text": "ลงสมัครประกวดวาดภาพระบายสี ม.ต้น"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร ม.ปลาย",
+          "text": "ลงสมัครประกวดวาดภาพระบายสี ม.ปลาย"
+        }
+      }
+    ],
+    "margin": "none"
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

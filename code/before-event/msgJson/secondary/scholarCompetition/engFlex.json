@@ -1,0 +1,613 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "weight": "bold",
+        "color": "#1DB446",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "การแข่งขันประกวดร้องเพลงภาษาอังกฤษ (ประเภทขับร้องเดี่ยว) ",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "ห้องประชุม 7 ชั้น 9 อาคารบีซีซี 150 ปี",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "12 มกราคม พ.ศ. 2566",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "Scholar Competitions",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดกิจกรรม",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การแข่งขัน",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "เกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● ผู้สมัครต้องไม่เคยมีงานออกอัลบั้มเพลงจำหน่ายหรืออยู่ในระหว่างสัญญากับค่ายเพลงใด",
+                "wrap": true,
+                "adjustMode": "shrink-to-fit"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● ผู้สมัครต้องเป็นนักเรียนสัญชาติไทยที่ศึกษาอยู่ในระดับชั้นมัธยมศึกษาตอนปลาย ไม่จำกัดเพศและอายุ",
+                "wrap": true,
+                "adjustMode": "shrink-to-fit"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● มีอาจารย์ของโรงเรียนควบคุมดูแลตลอดการเข้าร่วมโครงการ โดยอาจารย์เข้าร่วมไปเป็นทีมเดียวกับนักเรียนตอนลงสมัคร",
+                "adjustMode": "shrink-to-fit",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● แต่ละโรงเรียนสามารถส่งนักเรียนเข้าร่วมประกวดได้โรงเรียนละไม่เกิน 1 คน",
+                "wrap": true,
+                "adjustMode": "shrink-to-fit"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "เกณฑ์การแข่งขัน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● ผู้เข้าประกวดต้องมาลงทะเบียนระหว่างเวลา 12.00 - 12.30 น. ของวันที่ 12 มกราคม 2566   เท่านั้น มิเช่นนั้นจะถือว่าสละสิทธิ์",
+                "wrap": true,
+                "adjustMode": "shrink-to-fit"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● ผู้เข้าแข่งขันจะต้องเตรียม backing track ของเพลงที่จะใช้ประกวดในรูปแบบ .mp3   หรือ .wav และส่งมาที่ parisa.se@bcc1852.com (subject: English Singing Contest   2022) พร้อมกับแจ้งชื่อ – นามสกุลทั้งภาษาไทยและภาษาอังกฤษ ภายในวันที่ 6 มกราคม 2566   (ไม่อนุญาตให้เล่นเครื่องดนตรีสดและไม่อนุญาตให้มีdancer หรือเครื่องประกอบการแสดงอื่นๆ)",
+                "wrap": true,
+                "adjustMode": "shrink-to-fit"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "● การแต่งกายไม่มีผลต่อการให้คะแนน และการพิจารณาของคณะกรรมการถือเป็นที่สิ้นสุด",
+                "adjustMode": "shrink-to-fit",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "เกณฑ์การให้คะแนน",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ออกเสียงชัดเจนและเหมาะสม",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "20 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คุณภาพเสียงและเทคนิคการร้อง",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "20 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การแสดงอารมณ์ของเพลง",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "20 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ความถูกต้องของจังหวะ-ทำนอง",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "20 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บุคลิกและการแสดงออก",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "20 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คะแนนรวม",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "100 คะแนน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "กำหนดการรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ธันวาคม 2565 - 4 มกราคม 2566",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:00 - 12:30",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ลงทะเบียน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:30 - 15:30",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "เริ่มการแข่งขัน",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "15:30",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ประกาศผลรางวัล",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลที่จะได้รับ",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลชนะเลิศ",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "โล่",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงินรางวัล 2,500 บาท",
+                "size": "xxs",
+                "color": "#555555",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 1",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "โล่",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงินรางวัล 2,000 บาท",
+                "size": "xxs",
+                "color": "#555555",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 2",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "โล่",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงินรางวัล 1,500 บาท",
+                "size": "xxs",
+                "color": "#555555",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลชมเชย (2 รางวัล)",
+                "size": "xs",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "เกียรติบัตร",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงินรางวัล 500 บาท",
+                "size": "xxs",
+                "color": "#555555",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูปริษา ศรีสุขรชดา",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "061-549-2294",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูวศิน ชูสิน",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "092-785-9652",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัครการแข่งขันประกวดร้องเพลงภาษาอังกฤษ(ประเภทขับร้องเดี่ยว)"
+        }
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

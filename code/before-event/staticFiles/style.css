@@ -1,0 +1,75 @@
+@font-face {
+  font-family: bccfont ;
+  src: url(SukhumvitSet-Text.ttf);
+}
+
+/* Main */
+
+  .Main-page{
+    text-align: center ;
+    border: 1px 2px 3px solid black;
+    font-family: bccfont ;
+  }
+
+  .Main-center-20px{
+    font-size: 80px ;
+    text-shadow: 1px 1px 1px gray;         
+  }
+
+/*  */
+
+/* text */
+
+  label{
+    margin-right: 50% ;
+    font-size: 74px ;
+  }
+
+  .phone-center-10px{
+    margin-right: 59% ;
+  }
+  
+  .email-center-10px{
+    margin-right: 60%;
+  }
+
+  .region-center-10px{
+    margin-right: 57%;
+  }
+
+  .city-center-10px{
+    margin-right: 65%;
+  }
+
+  .school-center-10px{
+    margin-right: 58% ;
+  }
+
+  .status-center-10px{
+    margin-right: 59% ;
+  }
+
+/*  */
+
+/* input */
+
+  input{
+    width: 900px ;
+    height: 60px ;
+    font-size: 45px ;
+  }
+
+  .submit-width100px-hight10px{
+    width: 400px;
+    height: 100px;
+    margin-top: 10%;
+    font-size: 60px;
+  }
+
+/*  */
+
+  @media only screen and (max-width: 600px ) {
+        .Main-page {
+            width: 100%;
+        }
+    }

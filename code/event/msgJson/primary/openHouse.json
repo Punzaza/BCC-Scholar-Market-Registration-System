@@ -1,0 +1,51 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/primary/openHouse8Png.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Open House ประถมศึกษา รอบ 8:00 น."
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/primary/openHouse12.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Open House ประถมศึกษา รอบ 12:00 น."
+        }
+      }
+    }
+  ]
+}

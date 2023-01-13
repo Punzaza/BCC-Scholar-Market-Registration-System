@@ -1,0 +1,74 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/studentCouncil/sc.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "เสวนาสภากาแฟร์"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/studentCouncil/commonGoal.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Common Goal"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/studentCouncil/warToLoveTrail.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "เปลี่ยนรบเป็นรัก"
+        }
+      }
+    }
+  ]
+}

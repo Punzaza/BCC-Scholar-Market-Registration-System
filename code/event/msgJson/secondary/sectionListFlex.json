@@ -1,0 +1,125 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/competition/scholarCompetition.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Scholar Competitions"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/demonstration/demonstration.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "BCC Market ช็อปเพลิน เดิน “ตลาดเติมใจ (J.A.I.)”"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/openHouse/openHouse.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "Open House ผจญภัยในรั้วม่วงทอง"
+            }
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Open House ผจญภัยในรั้วม่วงทอง"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/scholarTalks/scholarTalks.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "Scholar Talks"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://bccscholar.com/staticFiles/images/secondary/studentCouncil/studentCouncil.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1",
+            "gravity": "center"
+          }
+        ],
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "สภานักเรียน"
+        }
+      }
+    }
+  ]
+}

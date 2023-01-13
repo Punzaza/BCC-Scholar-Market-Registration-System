@@ -1,0 +1,287 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Scholar Talk (2nd Day)",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "adjustMode": "shrink-to-fit",
+            "align": "start"
+          }
+        ],
+        "offsetBottom": "none",
+        "offsetTop": "none",
+        "offsetStart": "none",
+        "paddingAll": "none",
+        "paddingBottom": "none"
+      },
+      {
+        "type": "text",
+        "text": "12 มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": " Scholar Talk",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "separator",
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดกิจกรรม",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "การบรรยายให้ความรู้ ให้นักเรียนและผู้ที่สนใจเข้าฟัง ได้รับแรงบันดาลใจจากผู้มีประสบการณ์และผู้เชี่ยวชาญจากสาขาต่าง ๆ โดยผู้พูดทั้ง ศิษย์ปัจจุบัน ศิษย์เก่า และผู้มีชื่อเสียง เพื่อนำเสนอประสบการณ์ตรงของตนเองให้แก่ผู้ที่สนใจ",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Building our dream together",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "บรรยายเรื่อง ชีวิต ปัจจุบัน และอนาคต ผ่านการศึกษาประวัติศาสตร์ โดย",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "คุณ วิทย์ สิทธิเวคิน",
+            "size": "md",
+            "wrap": true,
+            "margin": "xs",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "12:30 - 15:00 น.",
+            "size": "xs",
+            "wrap": true,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้อง Theater ชั้น 10 อาคารจอห์น เอ. เอกิ้น",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายละเอียดเกณฑ์การรับสมัคร",
+                "weight": "bold",
+                "offsetStart": "none",
+                "offsetTop": "xs",
+                "margin": "md",
+                "size": "md"
+              },
+              {
+                "type": "text",
+                "text": "นักเรียนมัธยมศึกษาตอนปลาย และผู้สนใจ จำนวน 150 คน",
+                "size": "xs",
+                "wrap": true,
+                "margin": "md"
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัคร Scholar Talk (2nd Day - คุณวิทย์)"
+            }
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "none"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Building our dream together",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "บรรยายเรื่อง ชีวิต การทำงาน และแรงบันดาลใจ โดย",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "คุณ Krit Tone Voice over",
+            "size": "md",
+            "wrap": true,
+            "margin": "xs",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "12:30 - 15:00 น.",
+            "size": "xs",
+            "wrap": true,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "หอธรรม โรงเรียนกรุงเทพคริสเตียนวิทยาลัย",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายละเอียดเกณฑ์การรับสมัคร",
+                "weight": "bold",
+                "offsetStart": "none",
+                "offsetTop": "xs",
+                "margin": "md",
+                "size": "md"
+              },
+              {
+                "type": "text",
+                "text": "นักเรียนและผู้สนใจ จำนวน 300 คน",
+                "size": "xs",
+                "wrap": true,
+                "margin": "md"
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัคร Scholar Talk (2nd Day - คุณ Krit Tone)"
+            }
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "size": "md",
+            "wrap": true,
+            "margin": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูรักษพร แก้วบุญเรือน",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "081-552-4655",
+                "align": "end",
+                "size": "xs"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูกนกพร วิเศษรัตน์",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "-",
+                "align": "end",
+                "size": "xs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

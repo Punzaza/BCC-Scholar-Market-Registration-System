@@ -1,0 +1,580 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Scholar Quiz",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "adjustMode": "shrink-to-fit",
+            "align": "start"
+          }
+        ],
+        "offsetBottom": "none",
+        "offsetTop": "none",
+        "offsetStart": "none",
+        "paddingAll": "none",
+        "paddingBottom": "none"
+      },
+      {
+        "type": "text",
+        "text": "12  มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "Scholar Quiz",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "separator",
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดกิจกรรม",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "การแข่งขันทางวิชาการ (4 กลุ่มสาระ)",
+            "size": "sm",
+            "wrap": true,
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "● สังคมศึกษา"
+              },
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "5 ข้อ"
+              }
+            ],
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "● ภาษาไทย"
+              },
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "5 ข้อ"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "● คณิตศาสตร์"
+              },
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "5 ข้อ"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "● วิทยาศาสตร์"
+              },
+              {
+                "type": "text",
+                "size": "xs",
+                "text": "5 ข้อ"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "● ผู้เข้าร่วมแข่งขันแต่ละทีมจะสุ่มเลือกคำถามและตอบตามเวลาที่กำหนดจนครบ 20 ข้อ ข้อละ 1 - 2 คะแนน  ",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "● ถ้าทีมใดมีคะแนนรวมเท่ากัน จะใช้คำถามที่เหลือตัดสิน",
+            "size": "xs",
+            "wrap": true,
+            "margin": "xs",
+            "weight": "regular"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ประกวดร้องเพลงภาษาอังกฤษ",
+            "size": "sm",
+            "wrap": true,
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "● เพลงที่ใช้ ต้องมีความยาวไม่เกิน 5 นาที",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "● ต้องเตรียม Backing Track เป็นไฟล์มาด้วย",
+            "size": "xs",
+            "wrap": true,
+            "margin": "xs",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "● สามารถแต่งกายได้อย่างอิสระ แต่ต้องมีความเหมาะสมกับความเป็นนักเรียน และไม่ขัดต่อขนบธรรมเนียมประเพณีอันดีงามของไทย",
+            "size": "xs",
+            "wrap": true,
+            "margin": "xs",
+            "weight": "regular"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "● นักเรียนระดับประถมศึกษาปีที่ 5 - 6",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "● ประเภททีม ทีมละ 2 คน  โรงเรียนละ 1 - 2 ทีม",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "● แข่งขันประกวดร้องเพลง ประเภทเดี่ยว (ภาษาอังกฤษ) โรงเรียนละ 1 คน",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "07:30 - 08:00 น.",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start"
+              },
+              {
+                "type": "text",
+                "text": "ลงทะเบียน",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "end"
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ด้านหน้าหอธรรม",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:00 - 12:00 น.",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start"
+              },
+              {
+                "type": "text",
+                "text": "แข่งขัน",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "end"
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "หอธรรม",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รางวัลการแข่งขันทางวิชาการ",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลชนะเลิศ",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start"
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 1,500 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 1",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start",
+                "flex": 0
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 1,000 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 2",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start",
+                "flex": 0
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 500 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "นักเรียนและครูประจำทีมจะได้เกียรติบัตรในการเข้าร่วมทุกคน",
+            "size": "xxs",
+            "wrap": true,
+            "margin": "lg",
+            "align": "start",
+            "flex": 0
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รางวัลการประกวดร้องเพลง",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลชนะเลิศ",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start"
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 1,500 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 1",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start",
+                "flex": 0
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 1,000 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รางวัลรองชนะเลิศอันดับ 2",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start",
+                "flex": 0
+              }
+            ],
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตร ของที่ระลึกและเงินรางวัล 500 บาท",
+            "size": "xs",
+            "wrap": true,
+            "margin": "none",
+            "align": "start",
+            "color": "#aaaaaa"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูวรินธร ไชยกาล",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "start"
+              },
+              {
+                "type": "text",
+                "text": "085-546-5892",
+                "size": "xs",
+                "wrap": true,
+                "margin": "none",
+                "align": "end"
+              }
+            ],
+            "margin": "sm"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัครการแข่งขันทางวิชาการ",
+          "text": "ลงสมัคร Scholar Quiz (การแข่งขันทางวิชาการ)"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัครการประกวดร้องเพลง",
+          "text": "ลงสมัคร Scholar Quiz (การประกวดร้องเพลง)"
+        },
+        "margin": "none"
+      }
+    ]
+  }
+}

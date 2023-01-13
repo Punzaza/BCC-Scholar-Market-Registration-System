@@ -1,0 +1,126 @@
+/* font family */
+
+@font-face {
+    font-family: bigfont ;
+    src: url(FCIconic-Black.ttf);
+}
+
+@font-face {
+    font-family: mediumfont ;
+    src: url(FCIconic-Medium.ttf);
+}
+
+@font-face {
+    font-family: lightfont ;
+    src: url(FCIconic-ExtraLight.ttf);
+}
+
+/*  */
+
+/* background */
+
+/*@media only screen and (min-width: 600px){*/
+/*    .body{*/
+/*        height: 100%;*/
+/*    }*/
+/*    .background{*/
+/*        height: 100% ;*/
+/*    }*/
+/*  }*/
+/*  */
+
+/* background */
+
+body{
+        zoom: 40% ;
+    height: 2750px ;
+    width: 1242px ;
+    background-size: 100% 100%;
+    background-image: none;
+    /* background-image: linear-gradient(to top, #9276FA, #B884F4 , #B993F4, #E5B5ED); */
+    background-color: #9276FA;
+    animation-name: bgcolor ;
+    animation-duration: 5s ;
+    animation-delay: -2s ;
+    animation-iteration-count: infinite;
+  }
+
+.background{
+    /* width: ; */
+    height: 100%;
+    border: 10px solid #FAF884;
+}
+
+/*  */
+
+/* btn */
+
+.gothai{
+    border-radius: 30px ;
+    width: 40%;
+    height: 200px;
+    font-family: bigfont ;
+    font-size: 80px;
+    margin-top: 20%;
+    animation-name: btngothaicolor;
+    animation-delay: -2s ;
+    animation-duration: 6s;
+    animation-iteration-count: infinite ;
+}
+
+.goeng{
+    border-radius: 30px ;
+    margin-top: 10%;
+    width: 40%;
+    height: 200px ;
+    font-family: bigfont;
+    font-size: 80px;
+    animation-name: btngothaicolor;
+    animation-delay: -2s ;
+    animation-duration: 6s;
+    animation-iteration-count: infinite ;
+}
+
+/*  */
+
+/* text */
+
+.main{
+    font-family: bigfont;
+    font-size: 110px ;
+}
+
+.select{
+    font-family: mediumfont ;
+    font-size: 90px;
+}
+
+/*  */
+
+/* animation */
+
+@keyframes bgcolor {
+    0%{background-color: #7f38ec;}
+    25%{background-color: #8e3bff;}
+    50%{background-color: #9370db;}
+    75%{background-color: #8e3bff;}
+    100%{background-color: #7f38ec;}
+   }
+
+@keyframes btngothaicolor_holder {
+    0%{background-color: #9af3ff ;}
+    25%{background-color: #7dfdfe;}
+    50%{background-color: #00ffff;}
+    75%{background-color: #57feff;}
+    100%{background-color: #e0ffff;}
+}
+
+@keyframes btngothaicolor {
+    0%{background-color: #ffff33 ;}
+    25%{background-color: #ffff00;}
+    50%{background-color: #f5e216;}
+    75%{background-color: #fffe11;}
+    100%{background-color: #ffff33;}
+}
+
+/*  */

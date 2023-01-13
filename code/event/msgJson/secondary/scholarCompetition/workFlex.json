@@ -1,0 +1,283 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "weight": "bold",
+        "color": "#1DB446",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "wrap": true,
+        "text": "การทำขนมอบ Soft Cookie"
+      },
+      {
+        "type": "text",
+        "text": "ห้องโภชนาการ 1 ชั้น 1 ตึกสิรินาถ",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "12 มกราคม 2566",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "Scholar Competitions",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กำหนดการรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ธันวาคม 2565 - 4 มกราคม 2566",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "กิจกรรมที่จัดขึ้นเพื่อให้ผู้ที่เข้าร่วมได้รู้ ว่าคุ้กกี้นิ่มว่าต่างกับคุ้กกี้ปกติอย่างไร และสิ่งที่ทำให้คุกกี้นิ่มมีความแตกต่างจากคุกกี้กรอบทั่วไปคือ \"เนื้อสัมผัส ความฉ่ำเนย ความหนึบ ที่ละลายในปาก เนื่องจากเราใช้น้ำตาล 2 ชนิด คือน้ำตาลทรายขาวและน้ำตาลทรายแดงผสมกัน ทำให้รสสัมผัสที่ได้ นุ่มละมุนลิ้นมากขึ้น หอมมากขึ้น และเราสามารถเลือกใส่วัตถุดิบอื่นๆ เพื่อเสริมให้คุ้กกี้เรามีความแตกต่างได้มากกว่าเดิม\"  ทุกคนที่เข้าร่วมกิจกรรมจะได้เรียนรู้วิธีการทำคุ้กกี้นิ่ม เรียนรู้การใช้วัตถุดิบ การควบคุมอุณหภูมิความร้อนและเวลา และชิมคุกกี้ที่แสนอร่อย ",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูหรือนักเรียนชั้นมัธยมศึกษารวมไม่เกิน 24 คน",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:30 - 10:00 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ลงทะเบียน",
+                "size": "xs",
+                "color": "#111111",
+                "align": "end",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:00 - 11:45 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "กล่าวต้อนรับและเริ่มกิจกรรม",
+                "size": "xs",
+                "color": "#111111",
+                "align": "end",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "11:45 - 12:00 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "สรุปกิจกรรมและปิดงาน",
+                "size": "xs",
+                "color": "#111111",
+                "align": "end",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูสุพี ดอนไพรปาน",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "081-665-5833",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูสุรเดช แดงเดช",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "-",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูธัญกร บำรุงบ้าน",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "-",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัครการทำขนมอบ Soft Cookie"
+        }
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

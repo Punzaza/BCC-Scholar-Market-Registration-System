@@ -1,0 +1,899 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BCC Market ช็อปเพลิน เดิน \"ตลาดเติมใจ (J.A.I.)\"",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "adjustMode": "shrink-to-fit",
+            "align": "start"
+          }
+        ],
+        "offsetBottom": "none",
+        "offsetTop": "none",
+        "offsetStart": "none",
+        "paddingAll": "none",
+        "paddingBottom": "none"
+      },
+      {
+        "type": "text",
+        "text": "11  มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "Demonstration",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ที่สนใจจำนวน กิจกรรมละไม่เกิน 25 คน",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ตารางจัดกิจกรรม",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "170 ปี ดนตรี มีชีวิต Wonderful life",
+                "weight": "bold",
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "Track ดุริยางคศิลป์",
+                "size": "sm",
+                "color": "#aaaaaa"
+              },
+              {
+                "type": "text",
+                "text": "09:15 - 09:30 น.",
+                "margin": "md",
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "ลานกิจกรรมชั้น 1 อาคารบีซีซี 150 ปี",
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "โชว์พิเศษ",
+                "align": "center",
+                "margin": "lg",
+                "weight": "bold",
+                "color": "#E3242B"
+              }
+            ],
+            "margin": "lg"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กินหรู กินเหลาตั้งแต่ราชวงศ์ชิง",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Track อักษรศาสตร์ มนุษยศาสตร์ (ภาษาจีน)",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "09:40 - 10:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้อง ACTIVITY 2 ชั้น 7 อาคารบีซีซี 150 ปี",
+            "size": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมอักษรศาสตร์(จีน)"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "มุดท่อตะลุยตลาด",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Track อักษรศาสตร์ มนุษยศาสตร์ (ภาษาญี่ปุ่น)",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "09:40 - 10:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ลานกิจกรรมชั้น 7 อาคารบีซีซี 150 ปี",
+            "size": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมอักษรศาสตร์(ญี่ปุ่น)"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สด ใหม่ สายตัด !!! ",
+            "weight": "bold",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "Track นิเทศศาสตร์ วารสารศาสตร์ และสื่อดิจิทัล",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "09:40 - 10:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการนิเทศศาสตร์ ชั้น 9 อาคารบีซีซี 150 ปี / ห้อง MAC ชั้น 10 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมนิเทศศาสตร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "การเรียนรู้การตัดสินใจธุรกิจแบบผู้ประกอบการ",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track บริหารธุรกิจ บัญชี เศรษฐศาสตร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "10:10 - 10:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องประชุม 6 ชั้น 9 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมบริหารธุรกิจ"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เสวนาภาษาสังคม",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track สังคมศาสตร์ รัฐศาสตร์ นิติศาสตร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "10:10 - 10:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องศูนย์การเรียนรู้สังคมศึกษา 1 ชั้น 8 อาคารบีซีซี 150 ปี ",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมสังคมศาสตร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สืบสานลายศิลป์ไทย",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track ศิลปกรรมศาสตร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "10:40 - 11:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการศิลปะ ชั้น 10 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมศิลปกรรมศาสตร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ร้านปันสุข",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track อักษรศาสตร์ มนุษยศาสตร์ (ภาษาไทย)",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "10:40 - 11:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องศูนย์การเรียนรู้ภาษาไทย ชั้น 6 อาคารบีซีซี 150 ปี ",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมอักษรศาสตร์(ไทย)"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "อร่อยเต็มคำ คุกกี้แฟนซี",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track ศิลปะการประกอบอาหาร",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "11:20 - 11:40 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องโภชนาการ ชั้น 1 อาคารสิรินาถ",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมศิลปะการประกอบอาหาร"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BCC มวยไทย มรดกโลก",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track พลศึกษา ",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "11:20 - 11:40 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ลานชงโค อาคารเอ็ม บี ปาล์มเมอร์",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "โชว์พิเศษ",
+            "align": "center",
+            "margin": "lg",
+            "weight": "bold",
+            "color": "#E3242B"
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Krungthep Christian Band",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track ดุริยางคศิลป์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "12:00 - 12:15 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ลานชงโค อาคารเอ็ม บี ปาล์มเมอร์",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "โชว์พิเศษ",
+            "align": "center",
+            "margin": "lg",
+            "weight": "bold",
+            "color": "#E3242B"
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Architecture project",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track สถาปัตยกรรมศาสตร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "12:30 - 12:50 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการวิทยาศาสตร์ 2 อาคารเอ็ม บี ปาล์มเมอร์",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมสถาปัตยกรรมศาสตร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Our Body",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track แพทยศาสตร์ และกลุ่มสาธารณสุขศาสตร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "13:10 - 13:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องชีววิทยา ชั้น 3 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมแพทยศาสตร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BCC Space project",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track วิศวกรรมศาสตร์การบินและอวกาศยาน",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "13:10 - 13:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการวิศวกรรมการบินและอวกาศ ชั้น 2 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมวิศวกรรมศาสตร์การบิน"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Biomedical engineering International Innovation for a brighter change",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track วิศวกรรมชีวการแพทย์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "13:40 - 14:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ลานกิจกรรมชั้น 3 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมวิศวกรรมชีวการแพทย์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สนุกกับวงจรอิเล็กทรอนิกส์",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track วิศวกรรมศาสตร์ 1",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "13:40 - 14:00 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการ FAB LAB ชั้น 5 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมวิศวกรรมศาสตร์ 1"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Engineering project",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track วิศวกรรมศาสตร์ 2",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "14:10 - 14:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องปฏิบัติการฟิสิกส์ ชั้น 4 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมวิศวกรรมศาสตร์ 2"
+            }
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "separator",
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Robotics and Innovations",
+            "weight": "bold",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "Track วิศวกรรมหุ่นยนต์และคอมพิวเตอร์",
+            "size": "sm",
+            "color": "#aaaaaa",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "14:10 - 14:30 น.",
+            "margin": "md",
+            "size": "sm"
+          },
+          {
+            "type": "text",
+            "text": "ห้องศูนย์คอมพิวเตอร์ ชั้น 5 อาคารบีซีซี 150 ปี",
+            "size": "sm",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัครกิจกรรมวิศวกรรมหุ่นยนต์และคอมพิวเตอร์"
+            }
+          }
+        ],
+        "margin": "xxl"
+      }
+    ]
+  }
+}

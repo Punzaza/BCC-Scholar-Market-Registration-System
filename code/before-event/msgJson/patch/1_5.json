@@ -1,0 +1,166 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "อัพเดทปรับปรุงระบบ",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "text": "ขณะนี้ ระบบเปิดให้ลงทะเบียนแล้ว",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "สิ่งที่ปรับปรุง",
+        "margin": "lg",
+        "wrap": true,
+        "size": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "1.)",
+                "size": "sm",
+                "flex": 1,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5,
+                "text": "ทำการแก้ไขข้อมูลผู้ลงทะเบียนผิด หลังจากการเปิดทำการเราพบปัญหาผู้สมัคร ได้ลงทะเบียนไม่ตรงกับตัวเลือกที่ท่านต้องการจำนวนมาก ทำให้เราต้องทำการปิดปรังปรุงชั่วคราวเพื่อไม่ให้ปัญหาใหญ่ไปกว่านี้ หลังจากเปิดทำการแล้วผู้ใช้ที่ต้องการลงทะเบียน โปรดลงกิจกรรมที่ท่านต้องการอีกครั้ง"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "2.)",
+            "size": "sm",
+            "flex": 1,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5,
+            "text": "มีข้อมูลที่ผิดพลาดเกี่ยวกับสถานที่จัดงาน ของ Scholar Talks 4 (Krit tone) และ Scholar Talks 5 ( คุณวิทย์ ) โดย"
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "2.1.)",
+            "size": "sm",
+            "flex": 1,
+            "weight": "bold",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5,
+            "text": "Scholar Talks 4 ( Krit tone ) เปลี่ยนจาก ห้อง Theater ชั้น 10 เป็น อาคารจอห์น เอ. เอกิ้น เป็น หอธรรม โรงเรียนกรุงเทพคริสเตียนวิทยาลัย"
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "2.2.)",
+            "size": "sm",
+            "flex": 1,
+            "weight": "bold",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5,
+            "text": "Scholar Talks 5 ( คุณวิทย์ ) เปลี่ยนจาก หอธรรม โรงเรียนกรุงเทพคริสเตียนวิทยาลัย เป็นห้อง Theater ขั้น 10 อาคารจอห์น เอ. เอกิ้น   ทั้งสองงานเป้นเวลาเดิมทั้งคู่"
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "3.)",
+            "size": "sm",
+            "flex": 1,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5,
+            "text": "ทางเราเพิ่มจำนวน \"Open House ผจญภัยในรั้วม่วงทอง\" (สาย วิทย์-คณิต) และ \"Open House ท่องโลกการเรียนรู้แห่งสายศิลป์\" (สาย ศิลป์) ให้เยอะขึ้นจากการลงทะเบียนกิจกรรมของผู้ใช้ทุกท่านที่ต้องการลงทะเบียนอย่างล้นหลาม โดยเราเพิ่มมาเป็นทั้งหมด 30 คน"
+          }
+        ],
+        "margin": "xl"
+      },
+      {
+        "type": "text",
+        "text": "โปรดทุกท่านกดปุ่ม \"My ticket\" เพื่อความแน่ใจ หากมีข้อสงสัยใดๆ สามารถสอบถามได้ผ่านแชทไลน์",
+        "margin": "lg",
+        "wrap": true,
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "ทางเราขอขอบคุณทุกท่านที่ให้ความร่วมมือและสนับสนุน",
+        "margin": "lg",
+        "wrap": true,
+        "size": "sm"
+      }
+    ]
+  }
+}

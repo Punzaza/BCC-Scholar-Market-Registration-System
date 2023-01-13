@@ -1,0 +1,56 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "text",
+        "text": "กิจกรรมนี้จำเป็นต้องสมัครเป็นทีม กรุณาเลือกระหว่าง \"สร้างทีมใหม่\" และ \"เข้าร่วมทีมที่มีอยู่แล้ว\"",
+        "wrap": true,
+        "margin": "xxl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "separator"
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "สร้างทีมใหม่",
+          "text": ""
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "เข้าร่วมทีมที่มีอยู่แล้ว",
+          "text": ""
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

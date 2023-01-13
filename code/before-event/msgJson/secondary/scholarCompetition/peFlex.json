@@ -1,0 +1,355 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "weight": "bold",
+        "color": "#1DB446",
+        "size": "sm"
+      },
+      {
+        "type": "text",
+        "text": "โฮมคอร์ทแอพลิเคชั่นกับการประยุกต์ใช้ในการจัดการเรียนรู้วิชาพลศึกษาในยุคโลกาภิวัตน์",
+        "weight": "bold",
+        "size": "xxl",
+        "margin": "md",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "ห้องประชุม 6 ชั้น 9 อาคารบีซีซี 150 ปี",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "12 มกราคม 2566",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "Scholar Competitions",
+        "size": "xs",
+        "color": "#aaaaaa",
+        "wrap": true
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กำหนดการรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "20 ธันวาคม 2565 - 4 มกราคม 2566",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดกิจกรรม",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "บรรยายความรู้ 60 นาทีประเด็นดังต่อไปนี้",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "- ขั้นตอนการดาวน์โหลดโฮมคอร์ทแอปพลิเคชั่น",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "- รายละเอียดแบบฝึกและการออกกำลังกายต่างๆ ในแอปพลิเคชั่น",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              },
+              {
+                "type": "text",
+                "text": "- วิธีการประยุกต์โฮมคอร์ทแอปพลิเคชั่นในวิชาพลศึกษา",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ภาคปฏิบัติ 40 นาทีกิจกรรมดังต่อไปนี้",
+                    "size": "sm",
+                    "color": "#555555",
+                    "wrap": true,
+                    "weight": "bold",
+                    "margin": "lg"
+                  },
+                  {
+                    "type": "text",
+                    "text": "- สาธิตการประยุกต์ใช้ในการจัดการเรียนรู้วิชาพลศึกษา",
+                    "size": "sm",
+                    "color": "#555555",
+                    "wrap": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "- ทดลองให้ผู้เข้าร่วมการอบรมลองปฏิบัติทักษะและแบบฝึกต่างๆในโฮมคอร์ท  แอปพลิเคชั่น",
+                    "size": "sm",
+                    "color": "#555555",
+                    "wrap": true
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "การวัดประเมินผลการอบรม 20 นาที",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "weight": "bold",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "การถาม - ตอบประเด็นที่เป็นข้อสงสัย 10 นาที",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true,
+                "weight": "bold",
+                "margin": "lg"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูพลศึกษาและนักเรียนที่สนใจระดับประถมศึกษาและมัธยมศึกษา 40 คน",
+                "size": "sm",
+                "color": "#555555",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ตารางเวลา (ต้องอยู่ตลอดกิจกรรม",
+            "weight": "bold",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "และมีพักระหว่างกิจกรรม)",
+            "weight": "bold",
+            "margin": "none"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:00 - 10:00 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "บรรยายความรู้",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:00 - 10:40 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ภาคปฏิบัติ",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:40 - 11:00 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "วัดและประเมินผล",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "11:00 - 11:10 น.",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "ถาม - ตอบ",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "margin": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูนิรันทร์ กำจัดภัย",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "087-714-6948",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูนพรัตน์ บัวทิม",
+                "size": "sm",
+                "color": "#555555",
+                "flex": 0
+              },
+              {
+                "type": "text",
+                "text": "081-817-7959",
+                "size": "sm",
+                "color": "#111111",
+                "align": "end"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัครโฮมคอร์ทแอปพลิเคชันกับการประยุกต์ใช้"
+        }
+      }
+    ]
+  },
+  "styles": {
+    "footer": {
+      "separator": true
+    }
+  }
+}

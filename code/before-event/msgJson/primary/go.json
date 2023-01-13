@@ -1,0 +1,612 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "การแข่งขันหมากล้อม",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "adjustMode": "shrink-to-fit",
+            "align": "start"
+          }
+        ],
+        "offsetBottom": "none",
+        "offsetTop": "none",
+        "offsetStart": "none",
+        "paddingAll": "none",
+        "paddingBottom": "none"
+      },
+      {
+        "type": "text",
+        "text": "ห้อง LAB วิทยาศาสตร์ และห้อง LAB วิทยาศาสตร์ EIP ชั้น 7 อาคาร จอห์น เอ. เอกิ้น",
+        "color": "#aaaaaa",
+        "size": "xs",
+        "flex": 1,
+        "wrap": true
+      },
+      {
+        "type": "text",
+        "text": "12  มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "Scholar Competitions",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "separator",
+        "margin": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กำหนดการรับสมัคร",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "20 ธันวาคม 2565 - 4 มกราคม 2566",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "separator",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "text": "กติกาการแข่งขัน",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "xl",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "text": "● ในการแข่งแต่ละรอบ ผู้ชนะจะได้ 1 คะแนน และผู้แพ้จะได้ 0 คะแนน"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "text": "● เมื่อแข่งขันครบทุกรอบตามกำหนด จะจัดลำดับตามแบบ Swiss System"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "text": "● ในกรณีที่ผู้เข้าแข่งขันทั้งคู่ที่มีคะแนนเท่ากันมาพบกันในการแข่ง ให้ผลการแข่งขันนี้ตัดสิน (Head to Head)"
+          },
+          {
+            "type": "text",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md",
+            "text": "● ในกรณีที่ผู้เข้าแข่งขันทั้งคู่ที่มีคะแนนเท่ากัน ไม่ได้พบกันในการแข่ง ให้ดูวิธีดูผลชนะคู่แข่งที่อันดับดีที่สุดเพื่อจัดลำดับการแข่งขัน"
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รายละเอียดเกณฑ์การรับสมัคร",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "นักเรียนระดับประถมศึกษาปีที่ 4 - 6  ประเภทเดี่ยว โรงเรียนละไม่เกิน 5 คน และมีครูประจำโรงเรียน 1 คน",
+            "size": "xs",
+            "wrap": true,
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "ผู้สมัครสามารถเลือกรุ่นที่จะลงแข่งตามที่ได้กำหนดดังต่อไปนี้",
+            "size": "sm",
+            "flex": 1,
+            "margin": "xxl",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "● Master (1D-3K)",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "● Advance (4K-7K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Beginner (26K-30K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Novice 9x9 (19K-25K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Rookie 13x13 (12K-18K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Elite 19x19 (8K-11K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "หมายเหตุ: กรุณาสมัครมาพร้อมกันเป็น 1 ทีม ต่อ 1 โรงเรียน",
+            "size": "sm",
+            "flex": 1,
+            "margin": "md",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ตารางเวลา",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "08:00 - 08:30 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ลงทะเบียน",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "md"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "08:30 - 09:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "ชี้แจงกติกาการแข่งขัน",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "09:00 - 10:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "แข่งขันรอบที่ 1",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "10:00 - 11:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "แข่งขันรอบที่ 2",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "11:00 - 12:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "พัก",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "12:00 - 13:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "แข่งขันรอบที่ 3",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "13:00 - 14:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "แข่งขันรอบที่ 4",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "14:00 น.",
+                    "size": "sm",
+                    "margin": "none",
+                    "align": "start"
+                  },
+                  {
+                    "type": "text",
+                    "text": "มอบรางวัล-เกียรติบัตร",
+                    "align": "end",
+                    "size": "sm"
+                  }
+                ],
+                "margin": "sm"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "size": "xxs",
+            "wrap": true,
+            "margin": "lg",
+            "text": "แข่งขันที่ ห้องLAB วิทยาศาสตร์ และห้อง LAB วิทยาศาสตร์ EIP ชั้น 7 อาคาร จอห์น เอ. เอกิ้น",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "size": "xxs",
+            "wrap": true,
+            "margin": "sm",
+            "text": "(ลงทะเบียนที่ ลานชั้น 7 อาคารจอห์น เอ. เอกิ้น)"
+          },
+          {
+            "type": "separator",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลการแข่งขัน",
+            "weight": "bold",
+            "offsetStart": "none",
+            "offsetTop": "xs",
+            "margin": "md",
+            "size": "md"
+          },
+          {
+            "type": "text",
+            "text": "● Master (1D-3K)",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "● Advance (4K-7K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Beginner (26K-30K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "รางวัลชนะเลิศ",
+            "size": "sm",
+            "flex": 1,
+            "margin": "lg"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและเงินรางวัล 1,000 บาท",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลรองชนะเลิศอันดับ 1",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและเงินรางวัล 800 บาท",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลรองชนะเลิศอันดับ 2",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและเงินรางวัล 500 บาท",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "● Novice 9x9 (19K-25K)",
+            "size": "sm",
+            "flex": 1,
+            "margin": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "● Rookie 13x13 (12K-18K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "● Elite 19x19 (8K-11K)",
+            "size": "sm",
+            "flex": 1
+          },
+          {
+            "type": "text",
+            "text": "รางวัลชนะเลิศ",
+            "size": "sm",
+            "flex": 1,
+            "margin": "lg"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและรางวัล",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลรองชนะเลิศอันดับ 1",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและรางวัล",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          },
+          {
+            "type": "text",
+            "text": "รางวัลรองชนะเลิศอันดับ 2",
+            "size": "sm",
+            "flex": 1,
+            "margin": "sm"
+          },
+          {
+            "type": "text",
+            "text": "เกียรติบัตรและรางวัล",
+            "size": "sm",
+            "flex": 1,
+            "margin": "none",
+            "color": "#aaaaaa"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "separator",
+            "margin": "xl"
+          },
+          {
+            "type": "text",
+            "text": "ผู้ประสานงาน",
+            "size": "md",
+            "wrap": true,
+            "margin": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูนภัทร์ อิชยาวณิชย์",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "081-345-6703",
+                "align": "end",
+                "size": "xs"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ครูมณี สุทั่ง",
+                "align": "start",
+                "size": "xs"
+              },
+              {
+                "type": "text",
+                "text": "088-318-0860",
+                "align": "end",
+                "size": "xs"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "xxl"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "ลงสมัคร",
+              "text": "ลงสมัคร การแข่งขันหมากล้อม"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

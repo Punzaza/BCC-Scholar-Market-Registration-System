@@ -1,0 +1,639 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "Open House ผจญภัยในรั้วม่วงทอง",
+        "weight": "bold",
+        "size": "xl",
+        "wrap": true,
+        "adjustMode": "shrink-to-fit"
+      },
+      {
+        "type": "text",
+        "text": "11 มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "Open House",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ตารางกิจกรรม",
+            "weight": "bold",
+            "size": "xl",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "md",
+            "margin": "sm",
+            "text": "ท่องโลกการเรียนรู้แห่งศิลปศาสตร์"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "11:45 - 12:00 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ลงทะเบียน-รับของที่ระลึก",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ลานกิจกรรมชั้น 1 อาคาร BCC 150 ปี",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:00 - 12:15 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องศูนย์ศิลปะ",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายวิสุทธิ์ ตันติลักขณา",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:15 - 12:30 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องศูนย์คอมพิวเตอร์ MAC",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวซาร่า โมริยามา",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:30 - 12:45 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการนิเทศศาสตร์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายนิวัฒน์ ธรรมา",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "12:45 - 13:00 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องศูนย์อาเซียน",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายนรุตม์ ศิลปพิบูลย์",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวจิดาภา กิจโชติทวี",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวพิมพ์ชนก เรืองไพศาล",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "13:00 - 13:15 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ศูนย์การเรียนรู้คณิตศาสตร์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ว่าที่ร้อยตรีโกสินทร์ เชื้อประโรง",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "13:15 - 13:30 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องศูนย์การเรียนรู้ภาษาไทย",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายโชคอำนวย เอี่ยมนเรพร",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "13:40 - 14:40 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การสังเกตการสอนของ Native Speaker",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa",
+                "text": "(แบบไม่มีส่วนร่วม Non-Participant Observation)"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "14:50 - 15:05 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องโภชนาการ",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสุนีย์ สมวงษ์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "15:05 - 15:20 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม สวนลอยฟ้า",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายชลิต กันจันทร์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวอรทัย จันทร์ศรี",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "ผู้ประสานงาน",
+                "size": "md",
+                "wrap": true,
+                "margin": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ครูสุวรรณา อัมพรดนัย",
+                    "align": "start",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "085-060-4295",
+                    "align": "end",
+                    "size": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัคร Open House สายวิทย์"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

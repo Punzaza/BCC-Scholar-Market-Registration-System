@@ -1,0 +1,638 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "color": "#1DB446",
+        "size": "sm",
+        "flex": 1,
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "Open House ผจญภัยในรั้วม่วงทอง",
+        "weight": "bold",
+        "size": "xl",
+        "wrap": true,
+        "adjustMode": "shrink-to-fit"
+      },
+      {
+        "type": "text",
+        "text": "11 มกราคม 2566",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "text",
+        "text": "Open House",
+        "color": "#aaaaaa",
+        "size": "sm",
+        "flex": 1
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "xxl",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ตารางกิจกรรม",
+            "weight": "bold",
+            "size": "xl",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "md",
+            "margin": "sm",
+            "text": "ขุมทรัพย์สายวิทย์ของเลือดม่วงทอง"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:30 - 08:45 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ลงทะเบียน-รับของที่ระลึก",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ลานกิจกรรมชั้น 1 อาคาร BCC 150 ปี",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "08:45 - 09:00 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการทางวิศวกรรม",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวเกล้าฉัตร จอมเกาะ",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:00 - 09:15 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องศูนย์คอมพิวเตอร์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวโลจน์ฤทัย จอกน้อย",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:15 - 09:30 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการฟิสิกส์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายปัญญา ค้าคล่อง",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:30 - 09:45 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องเพาะเลี้ยงเนื้อเยื่อ",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวชัญญ์ชญา ศรีสุดใจ",
+                "flex": 1,
+                "size": "xs",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "09:45 - 10:00 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการชีววิทยา",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายชนันท์ เกียรติสิริสาสน์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:00 - 10:15 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการเคมี",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาวไพรินทร์ กาญจนบุตร",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:15 - 10:30 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องควบคุมสัญญาณดาวเทียม",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นายอดิเรก พิทักษ์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:40 - 10:55 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการวิทยาศาสตร์ 1",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาววนิดา ภู่เอี่ยม",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "10:55 - 11:10 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เยี่ยมชม ห้องปฏิบัติการวิทยาศาสตร์ 3",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นางสาววรรณารัตน์ นาราเจริญฤทธิ์",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "11:25 - 12:25 น.",
+                "flex": 1,
+                "size": "md",
+                "wrap": true,
+                "align": "start",
+                "margin": "sm"
+              }
+            ],
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การสังเกตการสอนของ Native Speaker",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "(แบบไม่มีส่วนร่วม Non-Participant Observation)",
+                "flex": 1,
+                "size": "sm",
+                "align": "start",
+                "wrap": true,
+                "color": "#aaaaaa"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "separator",
+                "margin": "lg"
+              },
+              {
+                "type": "text",
+                "text": "ผู้ประสานงาน",
+                "size": "md",
+                "wrap": true,
+                "margin": "xl",
+                "weight": "bold"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ครูสุวรรณา อัมพรดนัย",
+                    "align": "start",
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "085-060-4295",
+                    "align": "end",
+                    "size": "xs"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "separator",
+        "margin": "xxl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "ลงสมัคร",
+          "text": "ลงสมัคร Open House สายวิทย์"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}
