@@ -16,6 +16,8 @@ The "before-event" version was used for pre-registration and registering attenda
 
 One of the key features of the system is that we link the ticketId (used for QR code) with Google Sheets. This allows for easy access and management of the registered attendees' information. By linking the ticketId to Google Sheets, it makes it easy to check the attendance of the registrants during the event by scanning their QR code with a QR code scanner application.
 
+In the production phase, we also used Gunicorn to handle the server requests. Gunicorn is a pre-fork worker model HTTP server, which means it forks multiple worker processes to handle the incoming requests, it can handle more number of clients at a time and increases the performance of the application.
+
 Please note that during the development phrase, we used Python 3.11, so it's recommended to use the same version to avoid compatibility issues.
 
 ## Optimizations
@@ -41,6 +43,12 @@ pip install -r requirements.txt
 Additionally, you will also need to provide the 'creds.json' under the folder keys/googleSheets, this serves as a key to connect to Google Sheets. For more information on how to create the credentials, please refer to the following link: https://developers.google.com/workspace/guides/create-credentials.
 
 Furthermore, for the HTTPS connection, you will need to provide 'cert.pem' and 'key.key' under the folder keys/ssl. These files are used to encrypt the communication between the client and the server. Make sure you have the required certificates and keys to run the system.
+
+As stated above, please also install Gunicorn. The usual command we used to run the program is
+
+'''
+sudo gunicorn --bind 0.0.0.0:443 -w 5 --certfile=keys/ssl/cert.pem --keyfile=keys/ssl/key.key wsgi:app &
+'''
 ## Authors
 
 - Project Director: Punpapol ([@Punzaza](https://www.github.com/Punzaza))
