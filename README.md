@@ -46,9 +46,9 @@ Furthermore, for the HTTPS connection, you will need to provide 'cert.pem' and '
 
 As stated above, please also install Gunicorn. The usual command we used to run the program is
 
-'''
+```
 sudo gunicorn --bind 0.0.0.0:443 -w 5 --certfile=keys/ssl/cert.pem --keyfile=keys/ssl/key.key wsgi:app &
-'''
+```
 
 ## Authors
 
