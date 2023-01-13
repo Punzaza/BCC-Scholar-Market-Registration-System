@@ -49,7 +49,6 @@ As stated above, please also install Gunicorn. The usual command we used to run 
 ```
 sudo gunicorn --bind 0.0.0.0:443 -w 5 --certfile=keys/ssl/cert.pem --keyfile=keys/ssl/key.key wsgi:app &
 ```
-
 ## Authors
 
 - Project Director: Punpapol ([@Punzaza](https://www.github.com/Punzaza))
