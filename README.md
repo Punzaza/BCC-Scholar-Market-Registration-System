@@ -53,5 +53,5 @@ sudo gunicorn --bind 0.0.0.0:443 -w 5 --certfile=keys/ssl/cert.pem --keyfile=key
 
 - Project Director: Punpapol ([@Punzaza](https://www.github.com/Punzaza))
 - Website Director: Pannatat
-- UX/UI Directors: Wirachat, Phuwasit
+- UX/UI Directors: Wirachat ([@WirachatTH](https://www.github.com/WirachatTH)), Phuwasit
 - UX/UI Designers: Kittiphan, Punnawat, Poomipat, Arth
